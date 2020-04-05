@@ -1,0 +1,31 @@
+body {
+  background-color: gray!important;
+  font-family: 'Roboto', sans-serif!important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-align: left
+}
+
+nav{
+  font-family: 'Roboto', sans-serif!important;
+}
+
+
+a {color: black;      font-family:    arial;      text-align: center;      text-decoration: none}
+
+a:visited {color: black;      font-family: 'Roboto', sans-serif!important;      text-align: center}
+
+a:active {color: black;      font-family: 'Roboto', sans-serif!important;      text-align: center}
+
+H1, H2, H3, H4, H5, H6 {font-family: 'Roboto', sans-serif!important;     text-align: center}
+
+P {font-family: 'Roboto', sans-serif!important;      text-align: center}
+
+
+/*  Fin de la section de style g?n?r? par WebExpert le 08/09/2005 19:47:39  */
+/* Fin de la section de style g?n?r? par WebExpert le 15/09/2005 12:28:42 */
+
+
+
+
