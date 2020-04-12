@@ -19,11 +19,8 @@
   <body>
   <?php include("menu.php"); ?>
   <p><br><br><br>
-  <div style="text-align: center"><a href="nordwest.php"><img src="images/nw19.jpg" border="0" width="359" height="510" alt="" align="middle"></a></div><p></p><br>
-<div style="text-align: center"><font size="-1">CLOCHE - 	GRANIT CUIVRE OXYDE BRONZE - 	Ht39cm x23 cm
-
+  <div style="text-align: center"><a href="nordwest.php"><img src="images/nw38.jpg" border="0" width="642" height="510" alt="" align="middle"></a></div><p></p><br>
+<div style="text-align: center"><font size="-1">NORD WEST - 	GRANIT CUIVRE OXYDE CHAMBRE A AIR - 	Ht32cm x34 cm
 </font></div>
-
-
 </body>
 </html>
