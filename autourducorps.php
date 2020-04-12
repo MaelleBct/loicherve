@@ -25,15 +25,15 @@
 <div style="text-align: center"><font size="-3">cliquez pour agrandir</font></div><p></p>
 <table height="50" border="0" align="center" cellpadding="10" cellspacing="30" bordercolor="#000000">
     <tr>
-	  <td><a href="ac1.html"><img src="images/ac1_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac2.html"><img src="images/ac2_70pix.jpg" border="0" width="86" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac3.html"><img src="images/ac3_70pix.jpg" border="0" width="47" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac4.html"><img src="images/ac4_70pix.jpg" border="0" width="54" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac5.html"><img src="images/ac5_70pix.jpg" border="0" width="50" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac6.html"><img src="images/ac6_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac7.html"><img src="images/ac7_70pix.jpg" border="0" width="48" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac8.html"><img src="images/ac8_70pix.jpg" border="0" width="36" height="70" alt="" align="middle"></a></td>
-	  <td><a href="ac9.html"><img src="images/ac9_70pix.jpg" border="0" width="53" height="70" alt="" align="middle"></a></td>            
+	  <td><a href="ac1.php"><img src="images/ac1_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac2.php"><img src="images/ac2_70pix.jpg" border="0" width="86" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac3.php"><img src="images/ac3_70pix.jpg" border="0" width="47" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac4.php"><img src="images/ac4_70pix.jpg" border="0" width="54" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac5.php"><img src="images/ac5_70pix.jpg" border="0" width="50" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac6.php"><img src="images/ac6_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac7.php"><img src="images/ac7_70pix.jpg" border="0" width="48" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac8.php"><img src="images/ac8_70pix.jpg" border="0" width="36" height="70" alt="" align="middle"></a></td>
+	  <td><a href="ac9.php"><img src="images/ac9_70pix.jpg" border="0" width="53" height="70" alt="" align="middle"></a></td>            
     </tr>
 </table><p><br><br>
 
