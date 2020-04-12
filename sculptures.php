@@ -37,10 +37,10 @@
 </table><p><br><br>
 <table border="0" align="center" cellpadding=20 cellspacing=40 bordercolor="#000000">
     <tr>
-	  <td><a href="smur.html"><img src="images/smindex.jpg" border="0" width="197" height="200" alt="" align="middle"></a></td>
+	  <td><a href="smur.php"><img src="images/smindex.jpg" border="0" width="197" height="200" alt="" align="middle"></a></td>
       <td><a href="poidsdeschoses.php"><img src="images/pcindex.jpg" border="0" width="144" height="200" alt="" align="middle"></a></td>
-      <td><div style="text-align: center"><a href="sculpturesmobiles.html"><img src="images/smobindex.jpg" border="0" width="73" height="200" alt="" align="middle"></a></div></td>
-      <td><div style="text-align: center"><a href="aciersserrejoints.html"><img src="images/asindex.jpg" border="0" width="87" height="200" alt="" align="middle"></a></div></td>            
+      <td><div style="text-align: center"><a href="sculpturesmobiles.php"><img src="images/smobindex.jpg" border="0" width="73" height="200" alt="" align="middle"></a></div></td>
+      <td><div style="text-align: center"><a href="aciersserrejoints.php"><img src="images/asindex.jpg" border="0" width="87" height="200" alt="" align="middle"></a></div></td>            
     </tr>
     <tr>
 	  <td><div align="center"><a href="smur.html">Sculptures murales<br> 1989-2005</a></div></td>
