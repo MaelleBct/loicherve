@@ -19,7 +19,7 @@
 
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-  <a class="navbar-brand" href="#"><img src="/docs/4.4/assets/brand/bootstrap-solid.svg" width="30" height="30" alt=""></a>
+  <a class="navbar-brand" href="#"><img width="30" height="30" alt=""></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

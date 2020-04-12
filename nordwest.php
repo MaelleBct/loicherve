@@ -18,48 +18,47 @@
   </head>
   <body>
   <?php include("menu.php"); ?>
-
   <p><br><br><br>
-<div align="center"><p><font face="Century Gothic" size="+2">L o ï c  &nbsp;&nbsp;H e r v é </font></div><p></p>
+  <div align="center"><p><font face="Century Gothic" size="+2">L o ï c  &nbsp;&nbsp;H e r v é </font></div><p></p>
 <div style="text-align: center">Nord West</div><p></p>
 <div style="text-align: center"><font size="-3">cliquez pour agrandir</font></div><p></p>
 <div style="text-align: center">Nouveautés :</div>
 <table border="0" align="center" cellpadding="20" cellspacing="10" bordercolor="#FFFFFF" summary="">
 	<tr>
-		<td><a href="nw2007_2.html"><img src="images/nw2007_2_70pix.jpg" border="0" width="59" height="70" alt="" align="middle"></a></td>
-		<td><a href="nw2007_4.html"><img src="images/nw2007_4_70pix.jpg" border="0" width="42" height="70" alt="" align="middle"></a></td>
-		<td><a href="nw2007_8.html"><img src="images/nw2007_8_70pix.jpg" border="0" width="90" height="70" alt="" align="middle"></a></td>
-		<td><a href="nw2007_10.html"><img src="images/nw2007_10_70pix.jpg" border="0" width="88" height="70" alt="" align="middle"></a></td>
-		<td><a href="nw2007_12.html"><img src="images/nw2007_12_70pix.jpg" border="0" width="55" height="70" alt="" align="middle"></a></td>
-		<td><a href="nw2007_6.html"><img src="images/nw2007_6_70pix.jpg" border="0" width="83" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_2.php"><img src="images/nw2007_2_70pix.jpg" border="0" width="59" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_4.php"><img src="images/nw2007_4_70pix.jpg" border="0" width="42" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_8.php"><img src="images/nw2007_8_70pix.jpg" border="0" width="90" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_10.php"><img src="images/nw2007_10_70pix.jpg" border="0" width="88" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_12.php"><img src="images/nw2007_12_70pix.jpg" border="0" width="55" height="70" alt="" align="middle"></a></td>
+		<td><a href="nw2007_6.php"><img src="images/nw2007_6_70pix.jpg" border="0" width="83" height="70" alt="" align="middle"></a></td>
 	</tr>
 </table><p>
 <hr size="1">
 <table border="0" align="center" cellpadding="20" cellspacing="10" bordercolor="#FFFFFF" summary="">
 	<tr>
-		<td><div style="text-align: center"><a href="nw1.html"><img src="images/nw1_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw2.html"><img src="images/nw2_70pix.jpg" border="0" width="45" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw3.html"><img src="images/nw3_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw4.html"><img src="images/nw4_70pix.jpg" border="0" width="37" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw5.html"><img src="images/nw5_70pix.jpg" border="0" width="53" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw6.html"><img src="images/nw6_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw7.html"><img src="images/nw7_70pix.jpg" border="0" width="55" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw1.php"><img src="images/nw1_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw2.php"><img src="images/nw2_70pix.jpg" border="0" width="45" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw3.php"><img src="images/nw3_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw4.php"><img src="images/nw4_70pix.jpg" border="0" width="37" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw5.php"><img src="images/nw5_70pix.jpg" border="0" width="53" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw6.php"><img src="images/nw6_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw7.php"><img src="images/nw7_70pix.jpg" border="0" width="55" height="70" alt="" align="middle"></a></div></td>
 	</tr>
 	<tr>
-		<td><div style="text-align: center"><a href="nw8.html"><img src="images/nw8_70pix.jpg" border="0" width="107" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw9.html"><img src="images/nw9_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw10.html"><img src="images/nw10_70pix.jpg" border="0" width="107" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw11.html"><img src="images/nw11_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw12.html"><img src="images/nw12_70pix.jpg" border="0" width="39" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw13.html"><img src="images/nw13_70pix.jpg" border="0" width="47" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw14.html"><img src="images/nw14_70pix.jpg" border="0" width="57" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw8.php"><img src="images/nw8_70pix.jpg" border="0" width="107" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw9.php"><img src="images/nw9_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw10.php"><img src="images/nw10_70pix.jpg" border="0" width="107" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw11.php"><img src="images/nw11_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw12.php"><img src="images/nw12_70pix.jpg" border="0" width="39" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw13.php"><img src="images/nw13_70pix.jpg" border="0" width="47" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw14.php"><img src="images/nw14_70pix.jpg" border="0" width="57" height="70" alt="" align="middle"></a></div></td>
 	</tr>
 	<tr>
-		<td><div style="text-align: center"><a href="nw15.html"><img src="images/nw15_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw16.html"><img src="images/nw16_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw17.html"><img src="images/nw17_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw18.html"><img src="images/nw18_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
-		<td><div style="text-align: center"><a href="nw19.html"><img src="images/nw19_70pix.jpg" border="0" width="49" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw15.php"><img src="images/nw15_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw16.php"><img src="images/nw16_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw17.php"><img src="images/nw17_70pix.jpg" border="0" width="52" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw18.php"><img src="images/nw18_70pix.jpg" border="0" width="46" height="70" alt="" align="middle"></a></div></td>
+		<td><div style="text-align: center"><a href="nw19.php"><img src="images/nw19_70pix.jpg" border="0" width="49" height="70" alt="" align="middle"></a></div></td>
 		<td><div style="text-align: center"><a href="nw20.html"><img src="images/nw20_70pix.jpg" border="0" width="53" height="70" alt="" align="middle"></a></div></td>
 		<td><div style="text-align: center"><a href="nw21.html"><img src="images/nw21_70pix.jpg" border="0" width="49" height="70" alt="" align="middle"></a></div></td>
 	</tr>
@@ -92,7 +91,5 @@
 		<td><div style="text-align: center"><a href="nw42.html"><img src="images/nw42_70pix.jpg" border="0" width="94" height="70" alt="" align="middle"></a></div></td>
 			</tr> 	
 </table><p><br><br>
-
-
 </body>
 </html>

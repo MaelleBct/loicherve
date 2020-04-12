@@ -44,6 +44,5 @@
 	  <td><img src="images/grancordel11.jpg" border="0" width="300" height="200" alt="" align="middle"></td>	    
     </tr>
 </table><p><br><br>
-      
-  
+</body>
 </html>
