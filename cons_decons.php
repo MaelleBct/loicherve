@@ -25,12 +25,12 @@
 <div style="text-align: center"><font size="-3">cliquez pour agrandir</font></div><p></p>
 <table height="50" border="0" align="center" cellpadding="10" cellspacing="30" bordercolor="#000000">
     <tr>
-	  <td><a href="cons1.html"><img src="images/cd2_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
-	  <td><a href="cons2.html"><img src="images/cd3_70pix.jpg" border="0" width="97" height="70" alt="" align="middle"></a></td>
-	  <td><a href="cons3.html"><img src="images/cd5_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
-	  <td><a href="cons4.html"><img src="images/cd4_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
-	  <td><a href="cons5.html"><img src="images/cd6_70pix.jpg" border="0" width="60" height="70" alt="" align="middle"></a></td>
-	  <td><a href="cons6.html"><img src="images/cd1_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>	              
+	  <td><a href="cons1.php"><img src="images/cd2_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
+	  <td><a href="cons2.php"><img src="images/cd3_70pix.jpg" border="0" width="97" height="70" alt="" align="middle"></a></td>
+	  <td><a href="cons3.php"><img src="images/cd5_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
+	  <td><a href="cons4.php"><img src="images/cd4_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>
+	  <td><a href="cons5.php"><img src="images/cd6_70pix.jpg" border="0" width="60" height="70" alt="" align="middle"></a></td>
+	  <td><a href="cons6.php"><img src="images/cd1_70pix.jpg" border="0" width="51" height="70" alt="" align="middle"></a></td>	              
     </tr>
 </table><p><br><br>
 

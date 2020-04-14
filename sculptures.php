@@ -43,7 +43,7 @@
       <td><div style="text-align: center"><a href="aciersserrejoints.php"><img src="images/asindex.jpg" border="0" width="87" height="200" alt="" align="middle"></a></div></td>            
     </tr>
     <tr>
-	  <td><div align="center"><a href="smur.html">Sculptures murales<br> 1989-2005</a></div></td>
+	  <td><div align="center"><a href="smur.php">Sculptures murales<br> 1989-2005</a></div></td>
       <td><div align="center"><a href="poidsdeschoses.php">Poids des choses<br>1997</a></div></td>
       <td><div align="center"><a href="sculpturesmobiles.php">Sculptures mobiles<br> 1985-2002</a></div></td>
       <td><div align="center"><a href="aciersserrejoints.php">Aciers et serre joints <br>1989-1990</a></div></td>            
@@ -51,7 +51,7 @@
 </table><p><br><br>
 <table border="0" align="center" cellpadding=20 cellspacing=20 bordercolor="#000000">
     <tr>
-	  <td><a href="sculpturesmonumentales.html"><div style="text-align: center"><img src="images/smonindex.jpg" border="0" width="196" height="200" alt="" align="middle"></div></a></td>
+	  <td><a href="sculpturesmonumentales.php"><div style="text-align: center"><img src="images/smonindex.jpg" border="0" width="196" height="200" alt="" align="middle"></div></a></td>
       <td><div style="text-align: center"><a href="cons_decons.php"><img src="images/aindex.jpg" border="0" width="145" height="200" alt="" align="middle"></a></div></td>
       <td><div style="text-align: center"><a href="granitspeints.php"><img src="images/gpindex.jpg" border="0" width="145" height="200" alt="" align="middle"></a></div></td>
       <td><div style="text-align: center"><a href="msa.php"><img src="images/msaindex.jpg" border="0" width="155" height="200" alt="" align="middle"></a></div></td>                 

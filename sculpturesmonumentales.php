@@ -20,14 +20,15 @@
   <?php include("menu.php"); ?>
 
   <p><br><br><br>
+  <body><p><br><br><br>
 <div align="center"><p><font face="Century Gothic" size="+2">L o ï c  &nbsp;&nbsp;H e r v é </font></div><p></p>
 <div style="text-align: center">Sculptures monumentales</div><p></p>
 <div style="text-align: center"><font size="-3">cliquez pour agrandir</font></div><p></p>
 <table align="center" cellpadding=0 cellspacing=100 bordercolor="#000000">
     <tr>
-      <td><a href="lhommenmarche.html"><img src="images/sm1_200pix.jpg" border="0" width="130" height="200" alt="" align="middle"></a></td>
-	  <td><a href="luxembourg.html"><img src="images/sm2_200pix.jpg" border="0" width="145" height="200" alt="" align="middle"></a></td>
-	  <td><a href="mediabrest.html"><img src="images/sm3_200pix.jpg" border="0" width="199" height="200" alt="" align="middle"></a></td>      
+      <td><a href="lhommenmarche.php"><img src="images/sm1_200pix.jpg" border="0" width="130" height="200" alt="" align="middle"></a></td>
+	  <td><a href="luxembourg.php"><img src="images/sm2_200pix.jpg" border="0" width="145" height="200" alt="" align="middle"></a></td>
+	  <td><a href="mediabrest.php"><img src="images/sm3_200pix.jpg" border="0" width="199" height="200" alt="" align="middle"></a></td>      
     </tr>
     <tr>
       <td><div align="center">Rennes - 1985</div></td>
@@ -35,7 +36,6 @@
 	  <td><div align="center">Brest - 2002</div></td>
     </tr>	
 </table>
-<p>
-
+</p>
 </body>
 </html>
